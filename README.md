@@ -1,9 +1,5 @@
 <div>
 
-<p>
-Web-dev
-</p>
-
 <h4>Tech Stack</h4>
 <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
 <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
@@ -48,4 +44,10 @@ Web-dev
 
 </div>
 
+
 ![Snake animation](output/snake.svg)
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="output/keyboardin.gif" alt="" width="360" />
+  <img src="output/catdance.gif" alt="" width="150" />
+</div>
